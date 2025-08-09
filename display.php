@@ -1,4 +1,3 @@
-<?php include "db.php"; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,6 +10,7 @@
     integrity="sha512-DxV+EoADOkOygM4IR9yXP8Sb2qwgidEmeqAEmDKIOfPRQZOWbXCzLC6vjbZyy0vPisbH2SyW27+ddLVCN+OMzQ==" 
     crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
+<?php include "db.php"; ?>
 <body class="bg-light">
 <div class="container mt-5">
     <h2 class="text-center mb-4">List of Submitted Names</h2>
