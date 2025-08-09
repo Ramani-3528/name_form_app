@@ -5,11 +5,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Submitted Names</title>
-    <link rel="icon" href="favicon.png" type="image/png">
+    <link rel="shortcut icon" href="./assets/images/favicon.png" type="image/x-icon">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css" 
+    integrity="sha512-DxV+EoADOkOygM4IR9yXP8Sb2qwgidEmeqAEmDKIOfPRQZOWbXCzLC6vjbZyy0vPisbH2SyW27+ddLVCN+OMzQ==" 
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 <body class="bg-light">
-
 <div class="container mt-5">
     <h2 class="text-center mb-4">List of Submitted Names</h2>
     <div class="card shadow-sm p-4">
@@ -41,6 +43,5 @@
         <a href="index.php" class="btn btn-primary">Back to Form</a>
     </div>
 </div>
-
 </body>
 </html>
